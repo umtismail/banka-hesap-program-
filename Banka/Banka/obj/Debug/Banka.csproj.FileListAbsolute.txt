@@ -1,0 +1,78 @@
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\Banka\Banka\bin\Debug\Banka.exe.config
+D:\Login\Programlama ve Visual\Banka\Banka\bin\Debug\Banka.exe.config
+D:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.csprojResolveAssemblyReference.cache
+D:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.Girş_programı.resources
+D:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.Properties.Resources.resources
+D:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.Yeni_Kayıt.resources
+D:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.csproj.GenerateResource.Cache
+D:\Login\Programlama ve Visual\Banka\Banka\bin\Debug\Banka.exe
+D:\Login\Programlama ve Visual\Banka\Banka\bin\Debug\Banka.pdb
+D:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.exe
+D:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.pdb
+E:\Login\Programlama ve Visual\Banka\Banka\bin\Debug\Banka.exe.config
+E:\Login\Programlama ve Visual\Banka\Banka\bin\Debug\Banka.exe
+E:\Login\Programlama ve Visual\Banka\Banka\bin\Debug\Banka.pdb
+E:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.csprojResolveAssemblyReference.cache
+E:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.Girş_programı.resources
+E:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.Hesabım.resources
+E:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.Properties.Resources.resources
+E:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.Yeni_Kayıt.resources
+E:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.csproj.GenerateResource.Cache
+E:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.csproj.CoreCompileInputs.cache
+E:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.exe
+E:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.pdb
+E:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.Hesap_Giriş.resources
+D:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.Hesabım.resources
+D:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.Hesap_Giriş.resources
+D:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.Vadesiz_hesap.resources
+D:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.vadeli_hesap.resources
+D:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.Altın_hesap.resources
+D:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.Döviz_Hesabı.resources
+D:\Login\Programlama ve Visual\Banka\Banka\obj\Debug\Banka.vade.resources
+C:\Users\B2_1\Desktop\Banka\Banka\bin\Debug\Banka.exe.config
+C:\Users\B2_1\Desktop\Banka\Banka\obj\Debug\Banka.exe
+C:\Users\B2_1\Desktop\Banka\Banka\obj\Debug\Banka.pdb
+C:\Users\B2_1\Desktop\Banka\Banka\obj\Debug\Banka.csprojResolveAssemblyReference.cache
+C:\Users\B2_1\Desktop\Banka\Banka\obj\Debug\Banka.Altın_hesap.resources
+C:\Users\B2_1\Desktop\Banka\Banka\obj\Debug\Banka.Döviz_Hesabı.resources
+C:\Users\B2_1\Desktop\Banka\Banka\obj\Debug\Banka.Girş_programı.resources
+C:\Users\B2_1\Desktop\Banka\Banka\obj\Debug\Banka.Hesabım.resources
+C:\Users\B2_1\Desktop\Banka\Banka\obj\Debug\Banka.Hesap_Giriş.resources
+C:\Users\B2_1\Desktop\Banka\Banka\obj\Debug\Banka.Properties.Resources.resources
+C:\Users\B2_1\Desktop\Banka\Banka\obj\Debug\Banka.vade.resources
+C:\Users\B2_1\Desktop\Banka\Banka\obj\Debug\Banka.vadeli_hesap.resources
+C:\Users\B2_1\Desktop\Banka\Banka\obj\Debug\Banka.Vadesiz_hesap.resources
+C:\Users\B2_1\Desktop\Banka\Banka\obj\Debug\Banka.Yeni_Kayıt.resources
+C:\Users\B2_1\Desktop\Banka\Banka\obj\Debug\Banka.csproj.GenerateResource.Cache
+C:\Users\B2_1\Desktop\Banka\Banka\bin\Debug\Banka.exe
+D:\11 sınıf prog\form\Banka\Banka\bin\Debug\Banka.exe.config
+D:\11 sınıf prog\form\Banka\Banka\obj\Debug\Banka.exe
+D:\11 sınıf prog\form\Banka\Banka\obj\Debug\Banka.csprojResolveAssemblyReference.cache
+D:\11 sınıf prog\form\Banka\Banka\obj\Debug\Banka.Altın_hesap.resources
+D:\11 sınıf prog\form\Banka\Banka\obj\Debug\Banka.Döviz_Hesabı.resources
+D:\11 sınıf prog\form\Banka\Banka\obj\Debug\Banka.Girş_programı.resources
+D:\11 sınıf prog\form\Banka\Banka\obj\Debug\Banka.Hesabım.resources
+D:\11 sınıf prog\form\Banka\Banka\obj\Debug\Banka.Hesap_Giriş.resources
+D:\11 sınıf prog\form\Banka\Banka\obj\Debug\Banka.Properties.Resources.resources
+D:\11 sınıf prog\form\Banka\Banka\obj\Debug\Banka.vade.resources
+D:\11 sınıf prog\form\Banka\Banka\obj\Debug\Banka.vadeli_hesap.resources
+D:\11 sınıf prog\form\Banka\Banka\obj\Debug\Banka.Vadesiz_hesap.resources
+D:\11 sınıf prog\form\Banka\Banka\obj\Debug\Banka.Yeni_Kayıt.resources
+D:\11 sınıf prog\form\Banka\Banka\obj\Debug\Banka.csproj.GenerateResource.Cache
+C:\Users\İSO\Desktop\Yeni klasör (3)-20240510T112652Z-001\Yeni klasör (3)\11\Banka\Banka\bin\Debug\Banka.exe.config
+C:\Users\İSO\Desktop\Yeni klasör (3)-20240510T112652Z-001\Yeni klasör (3)\11\Banka\Banka\bin\Debug\Banka.exe
+C:\Users\İSO\Desktop\Yeni klasör (3)-20240510T112652Z-001\Yeni klasör (3)\11\Banka\Banka\obj\Debug\Banka.csproj.AssemblyReference.cache
+C:\Users\İSO\Desktop\Yeni klasör (3)-20240510T112652Z-001\Yeni klasör (3)\11\Banka\Banka\obj\Debug\Banka.Altın_hesap.resources
+C:\Users\İSO\Desktop\Yeni klasör (3)-20240510T112652Z-001\Yeni klasör (3)\11\Banka\Banka\obj\Debug\Banka.Döviz_Hesabı.resources
+C:\Users\İSO\Desktop\Yeni klasör (3)-20240510T112652Z-001\Yeni klasör (3)\11\Banka\Banka\obj\Debug\Banka.Girş_programı.resources
+C:\Users\İSO\Desktop\Yeni klasör (3)-20240510T112652Z-001\Yeni klasör (3)\11\Banka\Banka\obj\Debug\Banka.Hesabım.resources
+C:\Users\İSO\Desktop\Yeni klasör (3)-20240510T112652Z-001\Yeni klasör (3)\11\Banka\Banka\obj\Debug\Banka.Hesap_Giriş.resources
+C:\Users\İSO\Desktop\Yeni klasör (3)-20240510T112652Z-001\Yeni klasör (3)\11\Banka\Banka\obj\Debug\Banka.Properties.Resources.resources
+C:\Users\İSO\Desktop\Yeni klasör (3)-20240510T112652Z-001\Yeni klasör (3)\11\Banka\Banka\obj\Debug\Banka.vade.resources
+C:\Users\İSO\Desktop\Yeni klasör (3)-20240510T112652Z-001\Yeni klasör (3)\11\Banka\Banka\obj\Debug\Banka.vadeli_hesap.resources
+C:\Users\İSO\Desktop\Yeni klasör (3)-20240510T112652Z-001\Yeni klasör (3)\11\Banka\Banka\obj\Debug\Banka.Vadesiz_hesap.resources
+C:\Users\İSO\Desktop\Yeni klasör (3)-20240510T112652Z-001\Yeni klasör (3)\11\Banka\Banka\obj\Debug\Banka.Yeni_Kayıt.resources
+C:\Users\İSO\Desktop\Yeni klasör (3)-20240510T112652Z-001\Yeni klasör (3)\11\Banka\Banka\obj\Debug\Banka.csproj.GenerateResource.cache
+C:\Users\İSO\Desktop\Yeni klasör (3)-20240510T112652Z-001\Yeni klasör (3)\11\Banka\Banka\obj\Debug\Banka.csproj.CoreCompileInputs.cache
+C:\Users\İSO\Desktop\Yeni klasör (3)-20240510T112652Z-001\Yeni klasör (3)\11\Banka\Banka\obj\Debug\Banka.exe
+C:\Users\İSO\Desktop\Yeni klasör (3)-20240510T112652Z-001\Yeni klasör (3)\11\Banka\Banka\obj\Debug\Banka.pdb

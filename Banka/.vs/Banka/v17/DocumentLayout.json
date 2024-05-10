@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|c:\\users\\\u0130so\\desktop\\yeni klas\u00F6r (3)-20240510t112652z-001\\yeni klas\u00F6r (3)\\11\\banka\\banka\\vadesiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|solutionrelative:banka\\vadesiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|c:\\users\\\u0130so\\desktop\\yeni klas\u00F6r (3)-20240510t112652z-001\\yeni klas\u00F6r (3)\\11\\banka\\banka\\vadeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|solutionrelative:banka\\vadeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|c:\\users\\\u0130so\\desktop\\yeni klas\u00F6r (3)-20240510t112652z-001\\yeni klas\u00F6r (3)\\11\\banka\\banka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|solutionrelative:banka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|c:\\users\\\u0130so\\desktop\\yeni klas\u00F6r (3)-20240510t112652z-001\\yeni klas\u00F6r (3)\\11\\banka\\banka\\m\u00FC\u015Fteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|solutionrelative:banka\\m\u00FC\u015Fteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|c:\\users\\\u0130so\\desktop\\yeni klas\u00F6r (3)-20240510t112652z-001\\yeni klas\u00F6r (3)\\11\\banka\\banka\\d\u00F6viz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|solutionrelative:banka\\d\u00F6viz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|c:\\users\\\u0130so\\desktop\\yeni klas\u00F6r (3)-20240510t112652z-001\\yeni klas\u00F6r (3)\\11\\banka\\banka\\banka hesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|solutionrelative:banka\\banka hesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|c:\\users\\\u0130so\\desktop\\yeni klas\u00F6r (3)-20240510t112652z-001\\yeni klas\u00F6r (3)\\11\\banka\\banka\\alt\u0131n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|solutionrelative:banka\\alt\u0131n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|c:\\users\\\u0130so\\desktop\\yeni klas\u00F6r (3)-20240510t112652z-001\\yeni klas\u00F6r (3)\\11\\banka\\banka\\alt\u0131n hesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|solutionrelative:banka\\alt\u0131n hesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|c:\\users\\\u0130so\\desktop\\yeni klas\u00F6r (3)-20240510t112652z-001\\yeni klas\u00F6r (3)\\11\\banka\\banka\\alt\u0131n hesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|solutionrelative:banka\\alt\u0131n hesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|c:\\users\\\u0130so\\desktop\\yeni klas\u00F6r (3)-20240510t112652z-001\\yeni klas\u00F6r (3)\\11\\banka\\banka\\yeni_kay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|solutionrelative:banka\\yeni_kay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|c:\\users\\\u0130so\\desktop\\yeni klas\u00F6r (3)-20240510t112652z-001\\yeni klas\u00F6r (3)\\11\\banka\\banka\\hesap giri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|solutionrelative:banka\\hesap giri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|c:\\users\\\u0130so\\desktop\\yeni klas\u00F6r (3)-20240510t112652z-001\\yeni klas\u00F6r (3)\\11\\banka\\banka\\hesap giri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|solutionrelative:banka\\hesap giri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|c:\\users\\\u0130so\\desktop\\yeni klas\u00F6r (3)-20240510t112652z-001\\yeni klas\u00F6r (3)\\11\\banka\\banka\\gir\u015F_program\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|solutionrelative:banka\\gir\u015F_program\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|c:\\users\\\u0130so\\desktop\\yeni klas\u00F6r (3)-20240510t112652z-001\\yeni klas\u00F6r (3)\\11\\banka\\banka\\gir\u015F_program\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|solutionrelative:banka\\gir\u015F_program\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|c:\\users\\\u0130so\\desktop\\yeni klas\u00F6r (3)-20240510t112652z-001\\yeni klas\u00F6r (3)\\11\\banka\\banka\\hesab\u0131m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{469A46B4-42C4-41BA-B339-5F564548DE41}|Banka\\Banka.csproj|solutionrelative:banka\\hesab\u0131m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Alt\u0131n.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Alt\u0131n.cs",
+              "RelativeDocumentMoniker": "Banka\\Alt\u0131n.cs",
+              "ToolTip": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Alt\u0131n.cs",
+              "RelativeToolTip": "Banka\\Alt\u0131n.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:12:49.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Alt\u0131n hesap.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Alt\u0131n hesap.cs",
+              "RelativeDocumentMoniker": "Banka\\Alt\u0131n hesap.cs",
+              "ToolTip": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Alt\u0131n hesap.cs",
+              "RelativeToolTip": "Banka\\Alt\u0131n hesap.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAkwH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:12:46.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Alt\u0131n hesap.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Alt\u0131n hesap.cs",
+              "RelativeDocumentMoniker": "Banka\\Alt\u0131n hesap.cs",
+              "ToolTip": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Alt\u0131n hesap.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Banka\\Alt\u0131n hesap.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:12:45.279Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Banka Hesap.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Banka Hesap.cs",
+              "RelativeDocumentMoniker": "Banka\\Banka Hesap.cs",
+              "ToolTip": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Banka Hesap.cs",
+              "RelativeToolTip": "Banka\\Banka Hesap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:12:23.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "D\u00F6viz.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\D\u00F6viz.cs",
+              "RelativeDocumentMoniker": "Banka\\D\u00F6viz.cs",
+              "ToolTip": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\D\u00F6viz.cs",
+              "RelativeToolTip": "Banka\\D\u00F6viz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:12:25.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "M\u00FC\u015Fteri.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\M\u00FC\u015Fteri.cs",
+              "RelativeDocumentMoniker": "Banka\\M\u00FC\u015Fteri.cs",
+              "ToolTip": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\M\u00FC\u015Fteri.cs",
+              "RelativeToolTip": "Banka\\M\u00FC\u015Fteri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:11:52.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Program.cs",
+              "RelativeDocumentMoniker": "Banka\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Program.cs",
+              "RelativeToolTip": "Banka\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:12:30.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vadeli.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\vadeli.cs",
+              "RelativeDocumentMoniker": "Banka\\vadeli.cs",
+              "ToolTip": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\vadeli.cs",
+              "RelativeToolTip": "Banka\\vadeli.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:12:32.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vadesiz.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Vadesiz.cs",
+              "RelativeDocumentMoniker": "Banka\\Vadesiz.cs",
+              "ToolTip": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Vadesiz.cs",
+              "RelativeToolTip": "Banka\\Vadesiz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:12:35.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Yeni_Kay\u0131t.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Yeni_Kay\u0131t.cs",
+              "RelativeDocumentMoniker": "Banka\\Yeni_Kay\u0131t.cs",
+              "ToolTip": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Yeni_Kay\u0131t.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Banka\\Yeni_Kay\u0131t.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:12:37.908Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hesap Giri\u015F.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Hesap Giri\u015F.cs",
+              "RelativeDocumentMoniker": "Banka\\Hesap Giri\u015F.cs",
+              "ToolTip": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Hesap Giri\u015F.cs",
+              "RelativeToolTip": "Banka\\Hesap Giri\u015F.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:12:17.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Gir\u015F_program\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Gir\u015F_program\u0131.cs",
+              "RelativeDocumentMoniker": "Banka\\Gir\u015F_program\u0131.cs",
+              "ToolTip": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Gir\u015F_program\u0131.cs",
+              "RelativeToolTip": "Banka\\Gir\u015F_program\u0131.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA2wBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:12:05.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Gir\u015F_program\u0131.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Gir\u015F_program\u0131.cs",
+              "RelativeDocumentMoniker": "Banka\\Gir\u015F_program\u0131.cs",
+              "ToolTip": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Gir\u015F_program\u0131.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Banka\\Gir\u015F_program\u0131.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:12:03.801Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Hesap Giri\u015F.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Hesap Giri\u015F.cs",
+              "RelativeDocumentMoniker": "Banka\\Hesap Giri\u015F.cs",
+              "ToolTip": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Hesap Giri\u015F.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Banka\\Hesap Giri\u015F.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:11:55.725Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Hesab\u0131m.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Hesab\u0131m.cs",
+              "RelativeDocumentMoniker": "Banka\\Hesab\u0131m.cs",
+              "ToolTip": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\Banka\\Banka\\Hesab\u0131m.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Banka\\Hesab\u0131m.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:12:02.402Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
